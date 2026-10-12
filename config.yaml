@@ -1,0 +1,7 @@
+AccountId: 952290f2-c2c4-4e99-b9a6-fd14b36f604a
+APIToken: t.gPU7idIeMwuG3SF1Jntl0EFjO0JPoIChZTLiQ8rfe4UVPLp5nPfYNHhrxquCjoEA3DLtq7qBjvZ5zXOO2h_e8A
+EndPoint: sandbox-invest-public-api.tbank.ru:443
+AppName: invest-api-go-sdk
+DisableResourceExhaustedRetry: false
+DisableAllRetry: false
+MaxRetries: 3
