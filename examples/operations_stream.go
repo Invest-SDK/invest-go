@@ -11,7 +11,7 @@ import (
 
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-	"opensource.tbank.ru/invest/invest-go/investgo"
+	"github.com/Invest-SDK/invest-go/investgo"
 )
 
 func main() {

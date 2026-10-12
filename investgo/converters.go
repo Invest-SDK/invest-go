@@ -7,7 +7,7 @@ import (
 	"github.com/shopspring/decimal"
 	"google.golang.org/protobuf/types/known/timestamppb"
 
-	pb "opensource.tbank.ru/invest/invest-go/proto"
+	pb "github.com/Invest-SDK/invest-go/proto"
 )
 
 const BILLION int64 = 1000000000

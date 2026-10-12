@@ -5,8 +5,8 @@ import (
 
 	"google.golang.org/grpc"
 
-	pb "opensource.tbank.ru/invest/invest-go/proto"
-	"opensource.tbank.ru/invest/invest-go/retry"
+	pb "github.com/Invest-SDK/invest-go/proto"
+	"github.com/Invest-SDK/invest-go/retry"
 )
 
 type OrdersStreamClient struct {

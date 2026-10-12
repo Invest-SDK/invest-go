@@ -9,8 +9,8 @@ import (
 	"github.com/jmoiron/sqlx"
 	"github.com/mattn/go-sqlite3"
 	_ "github.com/mattn/go-sqlite3"
-	"opensource.tbank.ru/invest/invest-go/investgo"
-	pb "opensource.tbank.ru/invest/invest-go/proto"
+	"github.com/Invest-SDK/invest-go/investgo"
+	pb "github.com/Invest-SDK/invest-go/proto"
 )
 
 // StorageInstrument - Информация об инструменте в хранилище

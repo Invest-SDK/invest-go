@@ -13,9 +13,9 @@ import (
 
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-	"opensource.tbank.ru/invest/invest-go/examples/interval_bot/internal/bot"
-	"opensource.tbank.ru/invest/invest-go/investgo"
-	pb "opensource.tbank.ru/invest/invest-go/proto"
+	"github.com/Invest-SDK/invest-go/examples/interval_bot/internal/bot"
+	"github.com/Invest-SDK/invest-go/investgo"
+	pb "github.com/Invest-SDK/invest-go/proto"
 )
 
 // Параметры для изменения конфигурации бота

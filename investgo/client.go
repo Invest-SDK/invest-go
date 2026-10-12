@@ -12,8 +12,8 @@ import (
 	"google.golang.org/grpc/credentials/oauth"
 	"google.golang.org/grpc/metadata"
 
-	pb "opensource.tbank.ru/invest/invest-go/proto"
-	"opensource.tbank.ru/invest/invest-go/retry"
+	pb "github.com/Invest-SDK/invest-go/proto"
+	"github.com/Invest-SDK/invest-go/retry"
 )
 
 const (

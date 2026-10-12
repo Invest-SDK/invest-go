@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"opensource.tbank.ru/invest/invest-go/investgo"
-	pb "opensource.tbank.ru/invest/invest-go/proto"
+	"github.com/Invest-SDK/invest-go/investgo"
+	pb "github.com/Invest-SDK/invest-go/proto"
 )
 
 type Instrument struct {

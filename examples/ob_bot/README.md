@@ -59,7 +59,7 @@ SellOut bool
 
 Клонируете репозиторий 
 
-    git clone https://opensource.tbank.ru/invest/invest-go
+    git clone https://github.com/Invest-SDK/invest-go
 
 Перейдите в папку с ботом
 

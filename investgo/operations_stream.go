@@ -6,7 +6,7 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	pb "opensource.tbank.ru/invest/invest-go/proto"
+	pb "github.com/Invest-SDK/invest-go/proto"
 )
 
 type OperationsStream struct {

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	pb "opensource.tbank.ru/invest/invest-go/proto"
+	pb "github.com/Invest-SDK/invest-go/proto"
 )
 
 // Event - события, START - сигнал к запуску, STOP - сигнал к остановке

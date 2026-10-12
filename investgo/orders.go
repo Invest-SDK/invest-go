@@ -6,7 +6,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 
-	pb "opensource.tbank.ru/invest/invest-go/proto"
+	pb "github.com/Invest-SDK/invest-go/proto"
 )
 
 type OrdersServiceClient struct {

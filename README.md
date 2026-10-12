@@ -1,12 +1,12 @@
 # INVEST API Go SDK
 
-[![Go Reference](https://pkg.go.dev/badge/opensource.tbank.ru/invest/invest-go.svg)](https://pkg.go.dev/opensource.tbank.ru/invest/invest-go)
+[![Go Reference](https://pkg.go.dev/badge/github.com/Invest-SDK/invest-go.svg)](https://pkg.go.dev/github.com/Invest-SDK/invest-go)
 
 SDK предназначен для упрощения работы с API Инвестиций.
 
 ## Начало работы
 
-    go get opensource.tbank.ru/invest/invest-go
+    go get github.com/Invest-SDK/invest-go
 
 ### Где взять токен аутентификации?
 
@@ -30,7 +30,7 @@ SDK предназначен для упрощения работы с API Ин�
 
 #### 1. Клонирование репозитория
 
-    git clone https://opensource.tbank.ru/invest/invest-go
+    git clone https://github.com/Invest-SDK/invest-go
 
 #### 2. Конфигурация SDK
 Перейдите в директорию с примерами
@@ -121,8 +121,8 @@ import (
 	"sync"
 	"syscall"
 
-	"opensource.tbank.ru/invest/invest-go/investgo"
-	pb "opensource.tbank.ru/invest/invest-go/proto"
+	"github.com/Invest-SDK/invest-go/investgo"
+	pb "github.com/Invest-SDK/invest-go/proto"
 	"go.uber.org/zap"
 )
 

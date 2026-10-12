@@ -1,4 +1,4 @@
-module opensource.tbank.ru/invest/invest-go
+module github.com/Invest-SDK/invest-go
 
 go 1.20
 
